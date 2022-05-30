@@ -57,12 +57,12 @@ free: 15,
 
 //—————「 Set Image 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.thumb = fs.readFileSync('./image/chika.jpg')
+global.thumb = fs.readFileSync("./image/lol.jpg")
 /*global.veloriy = fs.readFileSync('./image/chika.mp4')*/
 
 //—————「 Set Image Welcome 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.BgWelcLeav = 'https://telegra.ph/file/90a931648de597820bc08.jpg'
+global.BgWelcLeav = "https://telegra.ph/file/90a931648de597820bc08.jpg"
 
 //—————「 Set Random Image Menu 」—————//
 //gausah di apa² in!
